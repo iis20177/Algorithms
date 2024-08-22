@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610315089 source:c:\c\panagiotidou_iis20177\socialfriends\socialfriends.c
+	<stdio.h>
+	<stdlib.h>
+
